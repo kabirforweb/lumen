@@ -14,3 +14,11 @@
 $app->get('/', function () use ($app) {
     return $app->version();
 });
+
+$app->get('string', function () use ($app) {
+    return str_random(32);
+});
+
+$app->get('foo', function () {
+    return 'Hello World';
+});
