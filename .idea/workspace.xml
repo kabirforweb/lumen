@@ -66,7 +66,7 @@
       <file leaf-file-name=".env" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.env">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="19" selection-start="190" selection-end="190" vertical-scroll-proportion="0.3558719">
+            <state line="11" column="0" selection-start="191" selection-end="191" vertical-scroll-proportion="0.39145908">
               <folding />
             </state>
           </provider>
@@ -102,8 +102,8 @@
         <option value="$PROJECT_DIR$/storage/logs/lumen.log" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/public/index.php" />
-        <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/.env.example" />
+        <option value="$PROJECT_DIR$/.env" />
       </list>
     </option>
   </component>
@@ -418,7 +418,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="19" selection-start="190" selection-end="190" vertical-scroll-proportion="0.3558719">
+        <state line="11" column="0" selection-start="191" selection-end="191" vertical-scroll-proportion="0.39145908">
           <folding />
         </state>
       </provider>
